@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+
 	var departureStation, arrivalStation, criteria string
 	fmt.Println("Please enter departure station:\t")
 	fmt.Scanf("%s\n", &departureStation)
